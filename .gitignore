@@ -1,0 +1,5 @@
+go.sum
+*.exe
+*.env
+*.json
+log
